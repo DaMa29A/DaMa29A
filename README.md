@@ -1,9 +1,24 @@
-# 🌘 DaMa29A 🌑
+<h1 align="center">
+  <span style="color:#8A2BE2;">🌘 DaMa29A 🌑</span>
+</h1>
 
-![](https://komarev.com/ghpvc/?username=DaMa29A&color=green)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaMa29A&color=6A4B91" alt="profile views"/>  
+  <br>
+  <em>Glad to see you here!</em>  
+</p>
 
 
-## Skills 🛡️
+## About 🖤
+💻🎓 Master's degree student in **Computer Science**  
+🕸️⚔️ Specializing in **Cybersecurity**  
+⌨️💀 Passionate about coding and problem solving  
+🧠🕷️ Determined, curious, and always eager to learn  
+🎨🦇 Artistic soul with a creative vision
+
+
+## Skills 🛠️
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
