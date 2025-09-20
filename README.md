@@ -13,9 +13,6 @@
 ## About 🖤
 💻🎓 Master's degree student in **Computer Science**  
 🕸️⚔️ Specializing in **Cybersecurity**  
-⌨️💀 Coding and problem solving  
-🧠🕷️ Determined, curious, and always eager to learn  
-🎨🦇 Artistic soul with a creative vision
 
 
 ## Skills 🛠️
