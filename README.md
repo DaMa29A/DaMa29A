@@ -1,39 +1,66 @@
-<h1 align="center">
-  <span style="color:#8A2BE2;">🌘 DaMa29A 🌑</span>
-</h1>
+
+<h1 align="center" style="color:#8A2BE2;">🌘 DaMa29A 🌑</h1>
+<h3 align="center"><span>Master's degree student in <span style="color:#9E77C9;">Computer Science</span></span></h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaMa29A&color=6A4B91" alt="profile views"/>  
-  <br>
-  <em>Glad to see you here!</em>  
-</p>
+
+<h1></h1>
+<h3>Connect with me</h3>
+<div align="left">
+  <a href="www.linkedin.com/in/marica-d-alfons" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 
-## About 🖤
-💻🎓 Master's degree student in **Computer Science**  
-🕸️⚔️ Specializing in **Cybersecurity**  
+<h1></h1>
+<h3>Languages and Tools</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+</div>
+
+<h1></h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaMa29A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaMa29A&radius=16&theme=synthwave-84&area=true&order=5&hide_border=true&custom_title=Contribution%20Stats" height="200" alt="activity-graph graph"  />
 
 
-## Skills 🛠️
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat-square&logo=linux&logoColor=white"/>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/DaMa29A/DaMa29A/output/snake.svg" alt="Snake animation" />
+<h1></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaMa29A/DaMa29A/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaMa29A/DaMa29A/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaMa29A/DaMa29A/output/pacman-contribution-graph.svg">
+</picture>
 
