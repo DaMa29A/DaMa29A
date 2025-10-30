@@ -35,4 +35,5 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+<img src="https://raw.githubusercontent.com/DaMa29A/DaMa29A/output/snake.svg" alt="Snake animation" />
 
