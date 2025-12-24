@@ -8,7 +8,14 @@
 <h3>Connect with me</h3>
 <div align="left">
   <a href="www.linkedin.com/in/marica-d-alfons" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+<h3>Website</h3>
+<div align="left">
+  <a href="https://dama29a.github.io/" target="_blank">
+    <img src="https://github.com/DaMa29A/DaMa29A.github.io/blob/main/images/ico.png" width="40" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -50,12 +57,6 @@
   <img width="21" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
-
-<h1></h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaMa29A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaMa29A&radius=16&theme=synthwave-84&area=true&order=5&hide_border=true&custom_title=Contribution%20Stats" height="200" alt="activity-graph graph"  />
-
 
 <h1></h1>
 <picture>
